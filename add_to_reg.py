@@ -1,7 +1,6 @@
 from os import getcwd
 from sys import executable as python_exe
 from winreg import CreateKey, HKEY_CLASSES_ROOT, REG_EXPAND_SZ, SetValue, REG_SZ
-import winreg
 
 # Getting the path of current working directory.
 cwd = getcwd()
