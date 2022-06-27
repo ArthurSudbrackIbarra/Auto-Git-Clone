@@ -15,6 +15,7 @@ Automatically clone git repositories using Windows right click menu.
 ## Requirements
 
 - [Python 3](https://www.python.org/downloads/)
+- [Git](https://git-scm.com/downloads)
 
 ## Installation
 
