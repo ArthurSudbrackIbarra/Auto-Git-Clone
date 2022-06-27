@@ -1,4 +1,3 @@
-import winreg
 from os import getcwd
 from sys import executable as python_exe
 from winreg import CreateKey, SetValue, SetValueEx, HKEY_CLASSES_ROOT, REG_SZ
